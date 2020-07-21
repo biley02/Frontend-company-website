@@ -1,2 +1,3 @@
 # Frontend company website
- A simple forntend website
+
+A simple forntend website using HTML, CSS, Bootstrap
